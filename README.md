@@ -15,6 +15,7 @@ Live url [Hosted On Netlify](https://map-highlighter.netlify.app/)
 
 - Just clone the master repo.Currently not dependent on any library.
 
+![State Filter](./map-highlighter.gif)
 ## Roadmap
 
 Future development plans for the plugin (if any suggestion then do create a feature request over GitHub):
