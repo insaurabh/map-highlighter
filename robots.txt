@@ -1,0 +1,5 @@
+# robots.txt for /
+
+Sitemap: https://map-highlighter.netlify.app/sitemap.xml
+
+User-agent: *
