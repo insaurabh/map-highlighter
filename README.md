@@ -9,6 +9,8 @@ No third party library dependencies.
 ## Demo
 Live url [Hosted On Netlify](https://map-highlighter.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e2fb743-5a0a-49c3-a8d9-8ae29ad2e5b8/deploy-status)](https://app.netlify.com/sites/map-highlighter/deploys)
+
 ## Installation
 
 - Just clone the master repo.Currently not dependent on any library.
